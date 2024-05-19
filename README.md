@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @insxneZZ
-- 👀 I’m interested in cybersecurity.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning Software engineering at the Polytechnic University of Madrid.
 - 📫 How to reach me contact me on Tw: @insxneZZ.
 
